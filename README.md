@@ -1,4 +1,3 @@
-# HTML-Galeeva
 структура сайта 
 now.json
 <!DOCTYPE html>
